@@ -28,4 +28,5 @@ Index Number: 2425404519
 Course: Multimedia Foundations and Web Design 
 Year: 2025/2026
 Session: BIT Weekend
+Level: 200
 
