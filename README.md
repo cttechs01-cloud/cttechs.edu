@@ -29,4 +29,6 @@ Course: Multimedia Foundations and Web Design
 Year: 2025/2026
 Session: BIT Weekend
 Level: 200
+Course Code: IT 245
+Lecturer: Mr. Ebenezer Akaglo
 
